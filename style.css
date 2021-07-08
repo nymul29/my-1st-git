@@ -1,0 +1,14 @@
+               
+                .name{
+                        border: 5px solid rgb(16, 45, 212);
+                        border-radius: 5px;
+                        margin: 40px;
+                      padding: 40px;
+                      width: 30%;
+                      float: left
+                      
+                }
+                h2{
+                    text-align: center;
+
+                }
